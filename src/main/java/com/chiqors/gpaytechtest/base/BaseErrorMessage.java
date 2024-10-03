@@ -1,4 +1,4 @@
-package com.dml.midapp.base;
+package com.chiqors.gpaytechtest.base;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

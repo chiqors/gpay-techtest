@@ -1,4 +1,7 @@
 package com.chiqors.gpaytechtest.repository;
 
-public class CustomerRepository {
+import com.chiqors.gpaytechtest.model.Customer;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface CustomerRepository extends JpaRepository<Customer, Long> {
 }

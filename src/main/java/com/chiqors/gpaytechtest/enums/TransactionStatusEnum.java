@@ -1,4 +1,5 @@
 package com.chiqors.gpaytechtest.enums;
 
-public enum TransactionStatus {
+public enum TransactionStatusEnum {
+    SUCCESS, FAILED
 }

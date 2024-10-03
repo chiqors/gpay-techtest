@@ -1,4 +1,4 @@
-package com.dml.midapp.common.enums;
+package com.chiqors.gpaytechtest.enums;
 
 import lombok.Getter;
 
